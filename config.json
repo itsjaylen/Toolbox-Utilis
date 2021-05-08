@@ -1,0 +1,14 @@
+{
+  "Iptools": {
+      "target": "",
+      "IP_Spoof": "True",
+      "Show_Output": "False",
+      "Packet_Count": "200",
+      "Ping_IP": "True"
+  },
+
+  "Requirements": {
+      "scapy": "scapy",
+      "colorama": "colorama"
+  }
+}
